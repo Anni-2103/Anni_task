@@ -20,4 +20,9 @@ b.Navigational components
 c. Informational components
   -notificaitions
    -progress bar
+
+Task 2
+   created a webpage that has a header footer section.
+   created a working navbar with login page, contact us page, and a separate page for accodion.
+   
  
